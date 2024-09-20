@@ -4,3 +4,4 @@ vfdjvh
 New line
 Commit test
 new branch line
+Conflict line
