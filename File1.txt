@@ -5,3 +5,4 @@ New line
 Commit test
 new branch line
 Conflict line
+Line for gui
